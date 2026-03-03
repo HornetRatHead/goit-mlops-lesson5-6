@@ -1,0 +1,11 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Секрети та налаштування
+*.tfvars
+.env
+.idea/
+.vscode/
